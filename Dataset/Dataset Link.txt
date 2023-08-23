@@ -1,0 +1,4 @@
+Kaggle Dataset-
+
+Step-1: Download the dataset from kaggle
+Link- https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-disease/code
