@@ -1,6 +1,6 @@
 # Deep-Neural-Networks-for-Crop-Disease-Detection-and-Interpretability-XAI
 
-Dataset Analysis:<br>
+**Dataset Analysis: ** <br>
 
 The dataset used in this thesis comprises a collection of
 images representing different plant species and their associated
@@ -47,3 +47,5 @@ B. Data Distribution<br>
 I can calculate the distribution of images in each class
 to understand the relative representation of different plant diseases and the healthy class. <br>
 Total images: 2942 images
+
+**My methodology:**
