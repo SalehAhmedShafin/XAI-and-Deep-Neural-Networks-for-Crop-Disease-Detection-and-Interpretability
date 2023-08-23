@@ -49,6 +49,7 @@ to understand the relative representation of different plant diseases and the he
 Total images: 2942 images
 
 **My methodology:**
+![Alt text](image_path.jpg)
 
 This section presents the proposed methodology of the
 proposed methodology for exploring deep neural networks
@@ -117,8 +118,8 @@ orientations.<br>
 IV) Random zoom: Using random zoom causes variety in
 the visualization of the pictures<br>
 
-C. Feature Extraction
-In our project, we were tasked with interpreting and making
+C. Feature Extraction<br>
+In our projecThe we were tasked with interpreting and making
 sense of the information hidden inside images. To address this,
 we used a complex mechanism known as transfer learning, which allows us to apply the insights obtained from
 training neural networks on large and varied picture datasets.
@@ -154,7 +155,7 @@ compare its performance across several classes. To evaluate
 how well the model performs, we utilize the weighted F1-
 score measure.<br>
 
-E. Apply XAI for Explanation:
+E. Apply XAI for Explanation:<br>
 We went a step further in our research by using eXplainable
 Artificial Intelligence (XAI) approaches to the models. When
 we examined the images from our dataset, this allowed us to
