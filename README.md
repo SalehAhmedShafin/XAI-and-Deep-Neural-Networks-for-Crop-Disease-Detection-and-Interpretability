@@ -48,8 +48,8 @@ I can calculate the distribution of images in each class
 to understand the relative representation of different plant diseases and the healthy class. <br>
 Total images: 2942 images
 
-**My methodology:**
-![Alt text](image_path.jpg)
+**My methodology:** <br>
+![Alt text](Images/PRMeth.png) <br>
 
 This section presents the proposed methodology of the
 proposed methodology for exploring deep neural networks
@@ -116,7 +116,7 @@ beneficial when images in the collection have varying
 orientations.<br>
 
 IV) Random zoom: Using random zoom causes variety in
-the visualization of the pictures<br>
+The visualization of the pictures<br>
 
 C. Feature Extraction<br>
 In our projecThe we were tasked with interpreting and making
