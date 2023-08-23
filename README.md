@@ -1,6 +1,6 @@
 # Deep-Neural-Networks-for-Crop-Disease-Detection-and-Interpretability-XAI
 
-**Dataset Analysis: ** <br>
+<strong>Dataset Analysis: <strong> <br>
 
 The dataset used in this thesis comprises a collection of
 images representing different plant species and their associated
