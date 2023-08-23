@@ -149,6 +149,7 @@ We also use the optimizer as Adam and the loss function
 as ’categorical cross entropy for multiclass classification. We
 also, use early stop criteria at the time of training to avoid
 overfitting and we save the best model for further activity.<br>
+
 D. Evaluate The Model:<br>
 Accuracy, Precision (P), recall (R), and weighted F1-score
 are used to compare performance. The model’s misclassification rate has been utilized as one of the metrics to effectively
@@ -157,6 +158,11 @@ how well the model performs, we utilize the weighted F1-
 score measure.<br>
 
 E. Apply XAI for Explanation:<br>
+
+![Alt text](Images/XAI_ORIGINAL1.png)<br>
+
+![Alt text](Images/XAI.png)<br>
+
 We went a step further in our research by using eXplainable
 Artificial Intelligence (XAI) approaches to the models. When
 we examined the images from our dataset, this allowed us to
