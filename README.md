@@ -122,7 +122,7 @@ C. Feature Extraction<br>
 In our projecThe we were tasked with interpreting and making
 sense of the information hidden inside images. To address this,
 we used a complex mechanism known as transfer learning, which allows us to apply the insights obtained from
-training neural networks on large and varied picture datasets.
+training neural networks on large and varied picture datasets.<br>
 We began by selecting three well-known pre-trained convolutional neural network (CNN) models: InceptionV3, VGG19,
 and Exception. These models have been painstakingly trained
 on enormous arrays of photos to detect nuanced patterns,
@@ -134,21 +134,22 @@ power of these pre-trained models. We input our images into
 these neural networks, which then analyzed the images layer
 by layer, unraveling their contents. The models divided the
 photos into smaller, relevant components and highlighted the
-distinctive traits that distinguish each image.
+distinctive traits that distinguish each image.<br>
 So, it can be said that we obtained a significant advantage
 by incorporating these pre-trained models into our strategy.
 We were able to concentrate on the finer aspects of our
 images that were important to our research, such as specific
 features that may assist us in distinguishing between distinct
 classes and concepts. Finally, we ran all the models with same
-hyperparameter setup likebatch size = 32, iterations= 30000, learning rate = 1e-4
-and epoch= 105, the epoch is calculated by this formulaiterations
-Len(train dataset)
-batch size We also use the optimizer as Adam and the loss function
+hyperparameter setup like <br>
+batch size = 32, iterations= 30000, learning rate = 1e-4
+and epoch= 105, the epoch is calculated by this formula 
+iterations/Len(train dataset)/batch size <br>
+We also use the optimizer as Adam and the loss function
 as ’categorical cross entropy for multiclass classification. We
 also, use early stop criteria at the time of training to avoid
-overfitting and we save the best model for further activity.
-D. Evaluate The Model:
+overfitting and we save the best model for further activity.<br>
+D. Evaluate The Model:<br>
 Accuracy, Precision (P), recall (R), and weighted F1-score
 are used to compare performance. The model’s misclassification rate has been utilized as one of the metrics to effectively
 compare its performance across several classes. To evaluate
